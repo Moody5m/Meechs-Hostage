@@ -9,10 +9,9 @@ Features:
 
 Installation:
 
-1.	Download and extract the files to your resources folder. (Or Drag And Drop)
+1. Download and extract the files to your resources folder. (Or Drag And Drop)
 
-2.	Add ensure meechs_247 to your server.cfg
 	
-3.	Restart your server.
+2. Restart your server.
 
 Explore and enjoy a more dynamic gameplay with our MLO, crafted to enrich your community’s experience. For more information and updates, visit https://github.com/Swivfty/Meechs-24-7.
