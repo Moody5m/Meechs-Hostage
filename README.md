@@ -13,4 +13,4 @@ Installation:
 	
 3.	Restart your server.
 
-Explore and enjoy a more dynamic gameplay with our MLO, crafted to enrich your community’s experience. For more information and updates, visit [Your Contact Info].
+Explore and enjoy a more dynamic gameplay with our MLO, crafted to enrich your community’s experience. For more information and updates, visit https://github.com/Swivfty/Meechs-24-7.
