@@ -9,3 +9,4 @@ description 'Meechs 24/7 Mlo'
 
 server_script 'enhanced.lua'
 server_script 'enhanced.lua'
+-- DONT TOUCH ANYTHING IN HERE (PLEASE DONT)
