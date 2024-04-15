@@ -5,6 +5,8 @@ Enhance your FiveM server with our custom-designed Supermarket MLO, offering a r
 Features:
 - Optimized Performance: High performance with minimal resource impact.
 
+- Easy To Install (LOL)
+
 Installation:
 
 1.	Download and extract the files to your resources folder. (Or Drag And Drop)
