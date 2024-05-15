@@ -17,7 +17,7 @@ This script allows players in FiveM to take other players hostage. It adds a new
 
 ## Installation
 
-1. **Download the script**: Download the latest version of the script from the [releases page](#) (replace with your download link).
+1. **Download the script**: Download the latest version of the script from the [releases page](#)
 
 2. **Extract the script**: Extract the downloaded file into your FiveM server's `resources` directory.
 
